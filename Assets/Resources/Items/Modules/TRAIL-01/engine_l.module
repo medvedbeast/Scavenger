@@ -1,0 +1,16 @@
+<Engine>
+	<hp>100</hp>
+	<maxHp>100</maxHp>
+	<armor>10</armor>
+	<moveSpeed>50</moveSpeed>
+	<fuel>425</fuel>
+	<maxFuel>425</maxFuel>
+	<fuelSpendRate>1</fuelSpendRate>
+	<carryingPower>3000</carryingPower>
+	<type>ENGINE</type>
+	<slot>0</slot>
+	<weight>1000</weight>
+	<name>SCA-01D</name>
+	<description>SCA-01 Default Engine</description>
+	<price>250</price>
+</Engine>

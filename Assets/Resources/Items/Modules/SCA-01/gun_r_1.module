@@ -1,0 +1,17 @@
+<Weapon>
+	<hp>100</hp>
+	<maxHp>100</maxHp>
+	<armor>10</armor>
+	<damage>1</damage>
+	<attackSpeed>850</attackSpeed>
+	<projectileName>PROJ-01</projectileName>
+	<type>WEAPON</type>
+	<weaponType>MACHINE_GUN</weaponType>
+	<slot>0</slot>
+	<weight>100</weight>
+	<name>SCA-01D</name>
+	<description>SCA-01 Default Weapon</description>
+	<price>150</price>
+	<maxStack>1</maxStack>
+	<stack>1</stack>
+</Weapon>

@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Common.Consumable" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAgAAIAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Consumables\Consumable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.FuelAdditive" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Consumables\FuelAdditive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Controller" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Destructible" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAgAAAAAAAAIAAAQAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Destructible.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Explosion" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Functions" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAQAAAFAAAAAAAAAAACBAAAAAAAAAAAAQABA=</HashCode>
+      <FileName>Assets\Scripts\Common\Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Inventory" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAADQAAAABAAEAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Body" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Modules\Body.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Engine" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAQAAAACAAAAAAAACAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Modules\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.MovementControl" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Modules\FlightControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Freight" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Modules\Freight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Module" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAAAAAAAAAACAAAABAAAAAABAABAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Modules\Module.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Weapon" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAApAAAAAAAQACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Modules\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Projectile" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAoAAAAAAAAAEAAAAAAAAAAAABAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Serializable" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Serializable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Storable" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAEIAAAgAAAAAAEAIAgAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Storable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Unit" Collapsed="true">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kBEAAAAAECAAAQAIgBKIAAAAAAADICACAABAABAAIAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.AI" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABSAAAIAgKCgABAAJAAAAAACAYAAAIAAAAABBAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Controllers\AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.CameraController" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAgiAAAAAAIAAAAAAAAAACAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Controllers\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.ShipController" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GBAIBAEAgiAhJAAAAAAAABACoQEAAAAsQACAAYAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Controllers\ShipController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.Fuel" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Core\Fuel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.Game" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Core\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.Interactive" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAABACIgAAAAAAAAABAIAAQAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Core\Interactive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.Sector" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAgAAAAQASACAEAEAAAAECAAAAAQAQAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Core\Sector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.SectorObject" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\Structures\SectorObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.Dragable" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIABACQAABAAAADAEAAAAAAAACABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\UI\Dragable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Space.Events" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAiQABAEKAgQACIAAAGAAAEAAAgAQAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\UI\Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.Message" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABEAACIAAAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\Space\UI\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.Transformation" Collapsed="true">
+    <Position X="24" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgIAAgAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\UI\Transformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.TransformationTarget" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEECAAACEAAAAAAEAAAACQAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\UI\TransformationTarget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Space.UI" Collapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAUAAAAAACAAAAAAEAAAAAAAQAAEIAAAAAAAEIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Space\UI\UI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Station.CameraController" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAIAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Station\Controllers\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Station.RobotController" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAqAABAAAABAQAAAAEQAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Station\Controllers\RobotController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Station.Environment" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Station\Core\Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Station.Game" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Station\Core\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Common.Directions" Collapsed="true">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAgAAAQAAAAEAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\Directions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Actions" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\Actions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Consumables" Collapsed="true">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\Consumables.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameStates" Collapsed="true">
+    <Position X="22.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\GameStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Modules" Collapsed="true">
+    <Position X="24" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABCAAAAAAAAAEAAAAAAAAAABAAQA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\Modules.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RandomEvents" Collapsed="true">
+    <Position X="17" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\RandomEvents.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SectorObjects" Collapsed="true">
+    <Position X="18.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAACEAAIABABAAAAAAACAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\SectorObjects.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Tooltips" Collapsed="true">
+    <Position X="20.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAQAAAAAgAAAIAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\Tooltips.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Units" Collapsed="true">
+    <Position X="22.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\Units.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Weapons" Collapsed="true">
+    <Position X="24" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Common\Enumerations\Weapons.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

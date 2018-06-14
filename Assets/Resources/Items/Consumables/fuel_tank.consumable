@@ -1,0 +1,13 @@
+<Fuel>
+	<slot>0</slot>
+	<weight>50</weight>
+	<name>Fuel</name>
+	<description>Fuel tank</description>
+	<price>50</price>
+	<maxStack>1</maxStack>
+	<stack>1</stack>
+	<type>FUEL_TANK</type>
+	<charges>2</charges>
+	<maxCharges>3</maxCharges>
+	<amount>0</amount>
+</Fuel>

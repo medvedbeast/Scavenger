@@ -1,0 +1,14 @@
+<FlightControl>
+	<hp>100</hp>
+	<maxHp>100</maxHp>
+	<armor>10</armor>
+	<turnSpeed>0.5</turnSpeed>
+	<type>FLIGHT_CONTROL</type>
+	<slot>0</slot>
+	<weight>150</weight>
+	<name>SCA-01D</name>
+	<description>SCA-01 Default Tail Element</description>
+	<price>100</price>
+	<maxStack>1</maxStack>
+	<stack>1</stack>
+</FlightControl>

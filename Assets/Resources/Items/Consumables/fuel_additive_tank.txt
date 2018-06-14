@@ -1,0 +1,13 @@
+<FuelAdditive>
+	<slot>0</slot>
+	<weight>50</weight>
+	<name>Fuel Additive</name>
+	<description>Fuel additive tank</description>
+	<price>250</price>
+	<maxStack>1</maxStack>
+	<stack>1</stack>
+	<type>FUEL_TANK</type>
+	<charges>4</charges>
+	<maxCharges>4</maxCharges>
+	<amount>75</amount>
+</Fuel>
