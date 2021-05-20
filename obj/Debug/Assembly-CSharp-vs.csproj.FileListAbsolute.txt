@@ -1,3 +1,0 @@
-C:\Users\medvedbeast\Desktop\SCAVANGER\Scavanger\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
-C:\Users\medvedbeast\Desktop\SCAVANGER\Scavanger\obj\Debug\Assembly-CSharp.dll
-C:\Users\medvedbeast\Desktop\SCAVANGER\Scavanger\obj\Debug\Assembly-CSharp.pdb
